@@ -1,3 +1,5 @@
+<img style="-webkit-user-select: none" src="https://cleantotaal.nl/wp-content/uploads/2016/10/ruglogo.jpg">
+
 # bioinformatics 2016-2017
 
 Practical Informatics for Biologists is a course at the University of Groningen 2016-2017.
